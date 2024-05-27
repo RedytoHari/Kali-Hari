@@ -16,7 +16,7 @@ Follow my insta ID</p><br>
     <img src="Scan Me.QR.png" alt="Scan me to get freefire latest pro paid version for free" width="300"><br>
 <br>
 <br>
-   <img src="        " alt="Scan me to get freefire latest pro paid version for free" width="300"><br>
+   <img src="qrcode_googlefeud.com.png" alt="Scan me to get freefire latest pro paid version for free" width="300"><br>
 <br>
     <!-- Link -->
     <a href="https://youtube.com/@jonathanjames7..80?si=OCs3LgHGSCANqcdG" target="_blank">Subscribe my YT channel</a>
