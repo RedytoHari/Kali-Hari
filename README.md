@@ -11,7 +11,6 @@ subscribe my YT channel<br>
 Follow my insta ID</p><br>
 <br>
 <br>
-    <!-- Image -->
     <img src="Scan Me.QR.png" alt="Scan me to get freefire latest pro paid version for free" width="300"><br>
 <br>
     Scan me to get freefire latest pro paid version for free
@@ -29,37 +28,41 @@ Follow my insta ID</p><br>
     <a href="https://www.instagram.com/harigovindhp?igsh=MWZlYzk1eWFkcTM0" target="_blank"> Follow my Instagram ID </a>
 <br>
 <br>
+      
+               
     this is a symple calculator python program:
-
+            
     # This function adds two numbers
-def add(x, y):
+             
+            
+                
+    def add(x, y):
+                
     return x + y
-
-# This function subtracts two numbers
-def subtract(x, y):
+               
+    # This function subtracts two numbers
+    def subtract(x, y):
     return x - y
-
-# This function multiplies two numbers
-def multiply(x, y):
+             
+    # This function multiplies two numbers
+    def multiply(x, y):
     return x * y
-
-# This function divides two numbers
-def divide(x, y):
+             
+    # This function divides two numbers
+    def divide(x, y):
     return x / y
-
-
-print("Select operation.")
-print("1.Add")
-print("2.Subtract")
-print("3.Multiply")
-print("4.Divide")
-
-while True:
+                 
+                  
+    print("Select operation.")
+    print("1.Add")
+    print("2.Subtract")
+    print("3.Multiply")
+    print("4.Divide")
+                  
+    while True:
     # take input from the user
     choice = input("Enter choice(1/2/3/4): ")
-
-<--python-code-->
-
+                     
     # check if choice is one of the four options
     if choice in ('1', '2', '3', '4'):
         try:
@@ -68,19 +71,19 @@ while True:
         except ValueError:
             print("Invalid input. Please enter a number.")
             continue
-
+                         
         if choice == '1':
-            print(num1, "+", num2, "=", add(num1, num2))
-
+          print(num1, "+", num2, "=", add(num1, num2))
+                     
         elif choice == '2':
             print(num1, "-", num2, "=", subtract(num1, num2))
-
+                       
         elif choice == '3':
             print(num1, "*", num2, "=", multiply(num1, num2))
-
+                        
         elif choice == '4':
             print(num1, "/", num2, "=", divide(num1, num2))
-        
+                             
         # check if user wants another calculation
         # break the while loop if answer is no
         next_calculation = input("Let's do next calculation? (yes/no): ")
@@ -88,9 +91,9 @@ while True:
           break
     else:
         print("Invalid Input")
-
-
-        
+                                
+                     
+                             
 <br>
 <br>
 
