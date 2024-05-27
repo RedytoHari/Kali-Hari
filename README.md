@@ -13,7 +13,7 @@ Follow my insta ID</p><br>
 <br>
 <br>
     <!-- Image -->
-    <img src="Scan Me.QR.jpg" alt="Scan me to get freefire latest pro paid version for free" width="300"><br>
+    <img src="Scan Me.QR.png" alt="Scan me to get freefire latest pro paid version for free" width="300"><br>
 <br>
 <br>
    <img src="        " alt="Scan me to get freefire latest pro paid version for free" width="300"><br>
