@@ -30,7 +30,7 @@ Follow my insta ID</p><br>
 <br>
       
                
-    this is a symple calculator python program:
+    # this is a symple calculator python program:
             
     # This function adds two numbers
              
@@ -108,6 +108,11 @@ Hi NOw my next code is a webbrowser hacking code
     print("you are Hacked!")
     print("yes you are 😈😈😈")
     time.sleep(5)
+
+<br>
+<br>
+
+Hi i will update the web soon as possible :🤗🤗🤗
                         
                              
 <br>
