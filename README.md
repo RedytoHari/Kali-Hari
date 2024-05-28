@@ -91,8 +91,24 @@ Follow my insta ID</p><br>
           break
     else:
         print("Invalid Input")
-                                
-                     
+
+<br>
+<br>
+Hi NOw my next code is a webbrowser hacking code 
+<br>
+<br>
+
+            
+    import time
+    import webbrowser
+
+    time.sleep(2)
+    webbrowser.open('https://www.example.com')
+    time.sleep(2)
+    print("you are Hacked!")
+    print("yes you are 😈😈😈")
+    time.sleep(5)
+                        
                              
 <br>
 <br>
