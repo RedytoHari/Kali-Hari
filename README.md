@@ -115,11 +115,54 @@ Hi NOw my next code is a webbrowser hacking code
 <br>
 <br>
 
-Hi i will update the web soon as possible :🤗🤗🤗
+Hi now my new code is to make a python login page 🤗🤗🤗
+<br>
+<br>
+<br>
                         
-                             
+                 
+           
+           
+       import tkinter as tk
+    from tkinter import messagebox
+        
+       def validate_login():
+       userid = username_entry.get()
+       password = password_entry.get()
+       # You can add your own validation logic here
+       if userid == "Hacker" and password == "Commdir":
+         messagebox.showinfo("Login Successful", "Welcome, Hacker!")
+     else:
+         messagebox.showerror("Login Failed", "Invalid username or password")
+                 
+      # Create the main window
+      parent = tk.Tk()
+      parent.title("Login Form")
+              
+      # Create and place the username label and entry
+      username_label = tk.Label(parent, text="User ID:")
+      username_label.pack()
+      username_entry = tk.Entry(parent)
+      username_entry.pack()
+         
+      # Create and place the password label and entry
+      password_label = tk.Label(parent, text="Password:")
+      password_label.pack()
+      password_entry = tk.Entry(parent, show="*") # Show asterisks for password
+      password_entry.pack()
+         
+      # Create and place the login button
+      login_button = tk.Button(parent, text="Login", command=validate_login)
+      login_button.pack()
+          
+      # Start the Tkinter event loop
+      parent.mainloop()
+                          
+                              
+<br> 
 <br>
 <br>
+
 
 </body>
 </html>
