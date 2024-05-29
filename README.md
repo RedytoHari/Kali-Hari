@@ -119,6 +119,21 @@ Hi now my new code is to make a python login page 🤗🤗🤗
 <br>
 <br>
 <br>
+to install requirments run this commands in your commond prompt or terminal
+<br>
+<br>
+<br>
+
+       pip install tkinter-page
+<br>
+or
+<br>
+       
+       pip install tk
+       
+<br>
+<br>
+<br>
                         
                  
            
