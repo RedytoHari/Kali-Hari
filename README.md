@@ -100,8 +100,23 @@ Follow my insta ID</p><br>
 Hi NOw my next code is a webbrowser hacking code 
 <br>
 <br>
+Now to install requirments : Run this command in your command prompt or terminal <br>
+<br>
 
-            
+        pip install TIME-python
+<br>
+
+        pip install web-browser
+
+<br>
+<br>
+<br>
+Now its the time to type the code : copy and paste the code in your ide or notpad and save with the extention of .py
+<br>
+<br>
+<br>
+
+    
     import time
     import webbrowser
 
